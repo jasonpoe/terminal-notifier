@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9F67DD19109869B0F5A85172DA9B0D3E8F7EF383",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1EAEED41BF17C1C430650FB58DACA37A83C51C34" : 9223372036854775807,
+    "9F67DD19109869B0F5A85172DA9B0D3E8F7EF383" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6C3FB275-5747-4DEE-922F-13FA351DCF7B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1EAEED41BF17C1C430650FB58DACA37A83C51C34" : "desktop-next\/",
+    "9F67DD19109869B0F5A85172DA9B0D3E8F7EF383" : "terminal-notifier\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HipChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HipChat.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/stash.atlassian.com:7997\/hc\/desktop-next.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1EAEED41BF17C1C430650FB58DACA37A83C51C34"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jasonpoe\/terminal-notifier.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F67DD19109869B0F5A85172DA9B0D3E8F7EF383"
+    }
+  ]
+}

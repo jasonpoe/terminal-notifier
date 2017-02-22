@@ -15,46 +15,50 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5199791315B1F92B003AFC57"
-               BuildableName = "terminal-notifier.app"
-               BlueprintName = "terminal-notifier"
-               ReferencedContainer = "container:Terminal Notifier.xcodeproj">
+               BuildableName = "HipChat.app"
+               BlueprintName = "HipChat"
+               ReferencedContainer = "container:HipChat.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      buildConfiguration = "Debug">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5199791315B1F92B003AFC57"
-            BuildableName = "terminal-notifier.app"
-            BlueprintName = "terminal-notifier"
-            ReferencedContainer = "container:Terminal Notifier.xcodeproj">
+            BuildableName = "HipChat.app"
+            BlueprintName = "HipChat"
+            ReferencedContainer = "container:HipChat.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
    </TestAction>
    <LaunchAction
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "NO"
+      debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5199791315B1F92B003AFC57"
-            BuildableName = "terminal-notifier.app"
-            BlueprintName = "terminal-notifier"
-            ReferencedContainer = "container:Terminal Notifier.xcodeproj">
+            BuildableName = "HipChat.app"
+            BlueprintName = "HipChat"
+            ReferencedContainer = "container:HipChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
@@ -115,18 +119,19 @@
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5199791315B1F92B003AFC57"
-            BuildableName = "terminal-notifier.app"
-            BlueprintName = "terminal-notifier"
-            ReferencedContainer = "container:Terminal Notifier.xcodeproj">
+            BuildableName = "HipChat.app"
+            BlueprintName = "HipChat"
+            ReferencedContainer = "container:HipChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
